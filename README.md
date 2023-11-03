@@ -1,6 +1,4 @@
 ## 画像のキャプチャを入れる練習
 
-![cat](/img/space-cat.png)
-
-### 下はブラウザの挙動
+### 下はブラウザの挙動のキャプチャ画像
 ![capture-image](./src/capture.png)
